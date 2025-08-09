@@ -150,6 +150,8 @@ python labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 
 ## 🎹 Hotkeys
 
+<div align="center">
+
 | Key              | Action                 |
 | ---------------- | ---------------------- |
 | Ctrl + S         | Save                   |
@@ -162,6 +164,8 @@ python labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 | Ctrl + Z         | Undo                   |
 | Ctrl + Shift + Z | Redo                   |
 | Space            | Verify Image           |
+
+</div>
 
 ---
 
