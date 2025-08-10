@@ -15,8 +15,8 @@
   <a href="https://github.com/SARATH062005/labelImg/issues"><img src="https://img.shields.io/github/issues/YourUsername/YourRepo?color=orange&style=for-the-badge"></a>
   <a href="https://github.com/SARATH062005/labelImg/blob/main/LICENSE"><img src="https://img.shields.io/github/license/YourUsername/YourRepo?style=for-the-badge"></a>
 </p>
+<p align="center">⭐ If you find this useful, please give it a star on GitHub! ⭐</p>
 
----
 
 ## 📖 Overview
 This is a **custom enhanced version of LabelImg** — an open-source graphical image annotation tool — with **major bug fixes** and **full compatibility on Windows, Linux, and macOS**.  
@@ -201,6 +201,7 @@ We welcome contributions!
 * **Author:** Sarath Chandiran
 * **Email:** [sarathchandiran4@gmail.com](mailto:sarathchandiran4@gmail.com)
 * **GitHub:** [@SARATH062005](https://github.com/SARATH062005/)
+  
+---
 
-<p align="center">⭐ If you find this useful, please give it a star on GitHub! ⭐</p>
 
