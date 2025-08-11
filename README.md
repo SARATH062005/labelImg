@@ -131,7 +131,7 @@ pyrcc4 -o libs/resources.py resources.qrc
 # For PyQt5
 pyrcc5 -o libs/resources.py resources.qrc
 
-python labelImg.py
+python labelImg.py #----------This is prefered-------
 python labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 ```
 
