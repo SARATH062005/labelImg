@@ -52,28 +52,28 @@ Enhanced, maintained, and improved by **Sarath Chandiran** in 2025.
   <table>
     <tr>
       <td align="center">
-        <img src="demo/Demo_1.png" width="60%"><br>
+        <img src="demo/Demo_1.png" width="85%"><br>
         <em>Figure 1: Draw your Bounding Box and Add Your Label</em>
       </td>
     </tr>
     <tr><td><br></td></tr>
     <tr>
       <td align="center">
-        <img src="demo/Demo_2.png" width="60%"><br>
+        <img src="demo/Demo_2.png" width="85%"><br>
         <em>Figure 2: Right Click on the bounded box and click 'Use Template for all'</em>
       </td>
     </tr>
     <tr><td><br></td></tr>
     <tr>
       <td align="center">
-        <img src="demo/Demo_3.png" width="60%"><br>
+        <img src="demo/Demo_3.png" width="85%"><br>
         <em>Figure 3: Click Next Image, The Template RectBox will be applied.</em>
       </td>
     </tr>
     <tr><td><br></td></tr>
     <tr>
       <td align="center">
-        <img src="demo/Demo_4.png" width="60%"><br>
+        <img src="demo/Demo_4.png" width="85%"><br>
         <em>Figure 4: You can adjust based on your needs</em>
       </td>
     </tr>
