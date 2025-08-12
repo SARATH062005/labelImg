@@ -9,12 +9,7 @@
   ✨ Enhanced version of <a href="https://github.com/tzutalin/labelImg">LabelImg</a> with bug fixes & new features ✨
 </p>
 
-<p align="center">
-  <a href="https://github.com/SARATH062005/labelImg/stargazers"><img src="https://img.shields.io/github/stars/YourUsername/YourRepo?color=yellow&style=for-the-badge"></a>
-  <a href="https://github.com/SARATH062005/labelImg/network/members"><img src="https://img.shields.io/github/forks/YourUsername/YourRepo?color=lightblue&style=for-the-badge"></a>
-  <a href="https://github.com/SARATH062005/labelImg/issues"><img src="https://img.shields.io/github/issues/YourUsername/YourRepo?color=orange&style=for-the-badge"></a>
-  <a href="https://github.com/SARATH062005/labelImg/blob/main/LICENSE"><img src="https://img.shields.io/github/license/YourUsername/YourRepo?style=for-the-badge"></a>
-</p>
+
 <p align="center">⭐ If you find this useful, please give it a star on GitHub! ⭐</p>
 
 
